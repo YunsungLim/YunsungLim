@@ -1,7 +1,8 @@
 ### Welcome to my github profile! 👋
 
-Now I am a PhD candidate in a KAIST (Korea Advanced Institute of Science and Technology) CBE (Chemical and Biomolecular Engineering).
+Now I am a PhD candidate in a KAIST (Korea Advanced Institute of Science and Technology) CBE (Chemical and Biomolecular Engineering).<br/>
 I usually use the github repositories to share Supporting Information for my articles!
+
 
 Research interests: Computational chemistry, Materials modeling
 
